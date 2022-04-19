@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruansy
-- 👀 I’m interested in bioinformatics,machine learning,deep learning and rock.
+- 👀 I’m interested in bioinformatics, machine learning and deep learning.
 - 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :iruansy@gmail.com
